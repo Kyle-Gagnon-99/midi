@@ -1,0 +1,12 @@
+# Ignore Rust specific
+/target
+/Cargo.lock
+
+# Ignore IDE
+.vscode
+
+# Ignore the MIDI files for testing
+*.mid
+
+# Ignore JSON files
+*.json
